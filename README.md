@@ -4,16 +4,11 @@ ShopDigital is a React-based e-commerce application that allows users to browse 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-
-## Demo
-
-[Live Demo](#) - Add a link to your live demo if available.
 
 ## Features
 
@@ -28,15 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/ShopDigital.git
-   ```
-
 2. Navigate into the project directory:
-
-   ```bash
-   cd ShopDigital
-   ```
 
 3. Install dependencies:
 
